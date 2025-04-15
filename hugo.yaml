@@ -22,18 +22,6 @@ markup:
 
 menu:
   main:
-    - name: About
-      pageRef: /about
-      weight: 1
-    - name: Meetings
-      pageRef: /meetings
-      weight: 2
-    - name: Handbook
-      pageRef: /handbook
-      weight: 3
-    - name: Join
-      url: "/join"
-      weight: 4
     - name: Search
       weight: 5
       params:

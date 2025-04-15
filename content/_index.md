@@ -17,5 +17,5 @@ toc: false
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get started" link="/join" >}}
+  {{< hextra/hero-button text="Get started" link="" >}}
 </div>
