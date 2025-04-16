@@ -15,6 +15,12 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)'], ['$', '$']]
+        enable: true
 
   # enable hextra syntax highlight
   highlight:
@@ -37,7 +43,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: img/logo.png
+      path: img/logo.svg
     width: wide
   
   page:
