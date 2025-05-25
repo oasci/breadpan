@@ -1,14 +1,5 @@
 <h1 align="center">Breadpan</h1>
 
-<p align="center">
-    <a href="https://github.com/oasci/breadpan/actions">
-        <img src="https://github.com/oasci/breadpan/actions/workflows/pages.yaml/badge.svg" alt="Build Status ">
-    </a>
-    <a href="https://creativecommons.org/licenses/by/4.0/">
-        <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License">
-    </a>
-</p>
-
 A template for breadcrumb sites.
 
 ## Local Development
